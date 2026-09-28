@@ -10,7 +10,7 @@ The package currently includes the Dual Cutoff Selection (DCS) analysis.
 install.packages("remotes")
 
 remotes::install_github(
-  "Cirorilardi/RclinimetriX",
+  "blindedresearchrepo/RclinimetriX",
   dependencies = TRUE
 )
 ```
