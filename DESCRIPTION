@@ -1,0 +1,26 @@
+Package: RclinimetriX
+Type: Package
+Title: Clinimetric Tools for Diagnostic Accuracy Analysis
+Version: 0.0.2
+Authors@R: c(
+    person("CRI", "Anonimous", email = "cri@nomail.com", role =c( "aut","cre")),
+    person("MC", "Anonimous", email = "mc@nomail.com", role = c("aut"))
+    )
+Description: Provides clinimetric tools for diagnostic accuracy analyses.
+License: GPL (>= 3)
+Encoding: UTF-8
+Imports:
+    ggplot2
+Roxygen: list(markdown = TRUE)
+Suggests:
+    testthat (>= 3.0.0),
+    shiny,
+    bslib,
+    readxl,
+    DT,
+    writexl
+Config/testthat/edition: 3
+Config/roxygen2/version: 8.0.0
+Depends: 
+    R (>= 3.5)
+LazyData: true
