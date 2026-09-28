@@ -3,8 +3,8 @@ Type: Package
 Title: Clinimetric Tools for Diagnostic Accuracy Analysis
 Version: 0.0.2
 Authors@R: c(
-    person("CRI", "Anonimous", email = "cri@nomail.com", role =c( "aut","cre")),
-    person("MC", "Anonimous", email = "mc@nomail.com", role = c("aut"))
+    person("Anonymous", "Author 1", email = "anonymous.author131@gmail.com", role =c( "aut","cre")),
+    person("Anonymous", "Author 2", email = "mc@nomail.com", role = c("aut"))
     )
 Description: Provides clinimetric tools for diagnostic accuracy analyses.
 License: GPL (>= 3)
